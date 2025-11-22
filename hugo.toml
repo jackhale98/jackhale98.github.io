@@ -1,0 +1,22 @@
+baseURL = 'https://jackhale98.github.io/'
+languageCode = 'en-us'
+title = 'Your Blog Name'
+theme = 'PaperMod'
+
+[params]
+  description = 'Long-form tech writing and think pieces'
+  author = 'Your Name'
+  
+  [params.homeInfoParams]
+    Title = 'Welcome to My Blog'
+    Content = 'Technology insights and long-form analysis'
+
+[menu]
+  [[menu.main]]
+    name = 'Archive'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 20
