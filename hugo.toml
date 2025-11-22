@@ -2,7 +2,9 @@ baseURL = 'https://jackhale98.github.io/'
 languageCode = 'en-us'
 title = 'Your Blog Name'
 theme = 'PaperMod'
-paginate = 5
+
+[pagination]
+  pagerSize = 5
 
 [params]
   description = 'Long-form tech writing and think pieces'
