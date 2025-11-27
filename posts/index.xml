@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Your Blog Name</title><link>https://jackhale98.github.io/posts/</link><description>Recent content in Posts on Your Blog Name</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://jackhale98.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>The danger of unlimited knowledge</title><link>https://jackhale98.github.io/posts/my-first-post/</link><pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate><guid>https://jackhale98.github.io/posts/my-first-post/</guid><description>&lt;h1 id="the-first-post"&gt;The first post!&lt;/h1&gt;
+&lt;p&gt;This is a test post to ensure Hugo is configured correctly&lt;/p&gt;
+&lt;h2 id="looking-to-evaluate-how-subheadings-work"&gt;Looking to evaluate how subheadings work&lt;/h2&gt;
+&lt;p&gt;They work okay. But won’t know until deployment&lt;/p&gt;
+&lt;h2 id="this-is-the-final-test"&gt;This is the final test&lt;/h2&gt;
+&lt;p&gt;For real&lt;/p&gt;</description></item></channel></rss>
