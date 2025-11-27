@@ -3,7 +3,9 @@
 &lt;h3 id="looking-to-evaluate-how-subheadings-work"&gt;Looking to evaluate how subheadings work&lt;/h3&gt;
 &lt;p&gt;This is a triple heading&lt;/p&gt;
 &lt;h4 id="this-is-a-fourth"&gt;This is a fourth&lt;/h4&gt;
-&lt;p&gt;Woah!&lt;/p&gt;</description></item><item><title>My first post</title><link>https://jackhale98.github.io/posts/my-first-post/</link><pubDate>Sat, 22 Nov 2025 00:00:00 -0500</pubDate><guid>https://jackhale98.github.io/posts/my-first-post/</guid><description>&lt;h1 id="the-first-post"&gt;The first post!&lt;/h1&gt;
+&lt;p&gt;Woah!&lt;/p&gt;
+&lt;h4 id="deploying"&gt;Deploying&lt;/h4&gt;
+&lt;p&gt;Now to see if it&amp;rsquo;s fixed&amp;hellip;&lt;/p&gt;</description></item><item><title>My first post</title><link>https://jackhale98.github.io/posts/my-first-post/</link><pubDate>Sat, 22 Nov 2025 00:00:00 -0500</pubDate><guid>https://jackhale98.github.io/posts/my-first-post/</guid><description>&lt;h1 id="the-first-post"&gt;The first post!&lt;/h1&gt;
 &lt;p&gt;This is a test post to ensure Hugo is configured correctly&lt;/p&gt;
 &lt;h2 id="looking-to-evaluate-how-subheadings-work"&gt;Looking to evaluate how subheadings work&lt;/h2&gt;
 &lt;p&gt;They work okay. But won’t know until deployment&lt;/p&gt;
