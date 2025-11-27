@@ -1,4 +1,4 @@
-baseURL = 'https://jackhale98.github.io/blog'
+baseURL = 'https://jackhale98.github.io/'
 languageCode = 'en-us'
 title = 'Your Blog Name'
 theme = 'PaperMod'
@@ -45,9 +45,9 @@ theme = 'PaperMod'
 
   # Edit post link
   [params.editPost]
-    URL = 'https://github.com/jackhale98/jackhale98.github.io/tree/main/content'
+    URL = 'https://github.com/jackhale98/blog/tree/main/content'
     Text = 'Suggest Changes'
-    appendFilePath = true
+    appendFilePath = false
 
 [menu]
   [[menu.main]]
